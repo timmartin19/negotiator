@@ -1,1 +1,1 @@
-from negotiator import AcceptParameters, ContentType, Language, ContentNegotiator
+from negotiator.negotiator import AcceptParameters, ContentType, Language, ContentNegotiator
